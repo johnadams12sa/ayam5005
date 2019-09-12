@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+}
+
+.Welcome_Banner{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+.Links{
+    text-align: center;
+    word-spacing: 150px;
+    background-color: #02FEAA;
+    color: black;
+    padding: 15px 20px;
+    margin: 15px;
+    text-align: center;
+}
