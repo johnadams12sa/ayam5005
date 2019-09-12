@@ -5,8 +5,9 @@ body{
 .Welcome_Banner{
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: normal;
     word-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .Links{
@@ -17,6 +18,8 @@ body{
     padding: 15px 20px;
     margin: 15px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .parallax{
