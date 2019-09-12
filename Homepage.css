@@ -18,3 +18,16 @@ body{
     margin: 15px;
     text-align: center;
 }
+
+.parallax{
+    /* Image used for background */
+    background-image: url("parallax_background_image.jpg");
+
+    min-height: 640px;
+
+    /* parallax scroll feature */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
